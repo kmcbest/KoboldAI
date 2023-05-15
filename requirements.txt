@@ -37,4 +37,4 @@ pytest-metadata==2.0.4
 requests-mock==1.10.0
 safetensors==0.3.1
 peft==0.3.0
-git+https://ghproxy.com/https://github.com/VE-FORBRYDERNE/mkultra
+git+https://gitclone.com/github.com/VE-FORBRYDERNE/mkultra
